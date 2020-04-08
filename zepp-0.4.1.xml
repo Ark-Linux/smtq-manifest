@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote fetch="ssh://git@github.com/Ark-Linux/" name="smtq" review="null" revision="master"/>
+
+<!-- ADK Layers-->
+<project name="qcs-adk-non-hlos-1-2" path="" remote="smtq"/>
+<project name="qcs-adk-hlos-1-2" path="" remote="smtq"/>
+<project name="qcs-adk-kernel-1-2" path="LE.UM.4.1.2/apps_proc/" remote="smtq"/>
+
+<!-- TYM Layers-->
+<remote fetch="ssh://git@github.com/BillWuZY/" name="ark" review="null" revision="master"/>
+<project name="meta-sdk" path="LE.UM.4.1.2/apps_proc/poky/meta-sdk" remote="ark"/>
+<project name="meta-ark" path="LE.UM.4.1.2/apps_proc/poky/meta-ark" remote="ark"/>
+
+</manifest>
