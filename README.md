@@ -20,5 +20,5 @@ repo init -u git@github.com:ark-linux/smtq-manifest.git -b master -m zepp-0.4.1.
 
 ## Repo sync
 ```
-repo sync
+repo sync -j5
 ```
