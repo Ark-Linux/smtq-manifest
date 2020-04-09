@@ -4,7 +4,7 @@
 
 <!-- ADK Layers-->
 <project name="qcs-adk-non-hlos-1-2" path="./" remote="smtq"/>
-<project name="qcs-adk-hlos-1-2" path="./" remote="smtq"/>
+<project name="qcs-adk-hlos-1-2" path="LE.UM.4.1.2/" remote="smtq"/>
 <project name="qcs-adk-kernel-1-2" path="LE.UM.4.1.2/apps_proc/" remote="smtq"/>
 
 <!-- TYM Layers-->
