@@ -5,8 +5,8 @@
 
 <project path="QCS40X_WS/" name="qcs-adk-non-hlos-1-2" remote="smtq"/>
 <project path="QCS40X_WS/LE.UM.4.1.2/" name="qcs-adk-hlos-1-2" remote="smtq"/>
-<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/" name="qcs-adk-kernel-1-2" remote="smtq"/>
-<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-sdk" name="meta-sdk"  remote="ark"/>
-<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-ark" name="meta-ark"  remote="ark"/>
+<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/kernel/" name="qcs-adk-kernel-1-2" remote="smtq"/>
+<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-sdk/" name="meta-sdk"  remote="ark"/>
+<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-ark/" name="meta-ark"  remote="ark"/>
 
 </manifest>
