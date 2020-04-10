@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote fetch="ssh://git@github.com/Ark-Linux/" name="smtq" review="null" revision="master"/>
-<remote fetch="ssh://git@github.com/BillWuZY/" name="ark" review="null" revision="master"/>
+<remote name="smtq" fetch="ssh://git@github.com/Ark-Linux/" review="null" revision="master"/>
+<remote name="ark" fetch="ssh://git@github.com/BillWuZY/" review="null" revision="master"/>
 
 <project path="QCS40X_WS/" name="qcs-adk-non-hlos-1-2" remote="smtq"/>
 <project path="QCS40X_WS/LE.UM.4.1.2/" name="qcs-adk-hlos-1-2" remote="smtq"/>
