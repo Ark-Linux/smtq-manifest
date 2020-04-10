@@ -3,7 +3,7 @@
 ## Install repo
 ```
 sudo apt update
-sudp apt install repo
+sudo apt install repo
 ```
 ## Change repo url if google is blocked
 ```
