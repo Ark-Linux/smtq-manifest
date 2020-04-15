@@ -4,6 +4,7 @@
 <remote name="ark" fetch="ssh://git@github.com/BillWuZY/" review="null" revision="develop"/>
 
 <project path="QCS40X_WS/" name="qcs-adk-non-hlos-1-2" remote="smtq"/>
+<project path="QCS40X_WS/ark_script/" name="ark_script" remote="smtq"/>
 <project path="QCS40X_WS/LE.UM.4.1.2/" name="qcs-adk-hlos-1-2" remote="smtq"/>
 <project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/kernel/" name="qcs-adk-kernel-1-2" remote="smtq"/>
 <project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-sdk/" name="meta-sdk"  remote="ark"/>
