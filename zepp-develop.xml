@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="smtq" fetch="ssh://git@github.com/Ark-Linux/" review="null"/>
-<default remote="smtq" revision="develop"/>
+<default remote="smtq" dest-branch="develop"/>
 
 <project path="QCS40X_WS/" name="qcs-adk-non-hlos-1-2"/>
 <project path="QCS40X_WS/ark_script/" name="ark_script"/>
