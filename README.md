@@ -15,7 +15,7 @@ REPO_URL = 'https://aosp.tuna.tsinghua.edu.cn/git-repo'
 ```
 ## Repo init
 ```
-repo init -u git@github.com:ark-linux/smtq-manifest.git -b master -m zepp-develop.xml
+repo init -u git@github.com:ark-linux/smtq-manifest.git -b master -m develop.xml
 ```
 
 ## Repo sync
