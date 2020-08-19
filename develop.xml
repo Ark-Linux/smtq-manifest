@@ -11,5 +11,4 @@
 
 <project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-sdk/" name="smtq-meta-sdk"/>
 <project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-ark/" name="smtq-meta-ark"/>
-<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-prod-lv/" name="smtq-meta-prod-lv"/>
 </manifest>
