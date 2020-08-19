@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="smtq" fetch="ssh://git@github.com/Ark-Linux/" review="null"/>
+<default remote="smtq"/>
+
+<project path="QCS40X_WS/" name="qcs-adk-non-hlos-1-2" revision="82a5cb4ae551bb37ad8c1c3ef50be9f8e0d0787a"/>
+<project path="QCS40X_WS/ark_script/" name="ark_script" revision="a122c1aef68d4aed5d0ee201c09598c2296cad24"/>
+<project path="QCS40X_WS/LE.UM.4.1.2/" name="qcs-adk-hlos-1-2" revision="fcfe8b9975f7ae6f2dd74942ea295e823c87f37e"/>
+<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/kernel/" name="qcs-adk-kernel-1-2" revision="12f869f0e09cd9c8c9c2a5b62fe80b4e0d4b3985"/>
+<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/audio/mm-audio-cal/audcal/acdbdata/qcs405/MTP/" name="qcs-adk-acdb-1-2" revision="28bc5bd073cf6b17ba64e931e767815981c5b197"/>
+
+<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-sdk/" name="smtq-meta-sdk"  revision="b036d8d7ce3f95e1dbb1ddef788e8245291f505a"/>
+<project path="QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-ark/" name="smtq-meta-ark"  revision="e1863c5878a220dab9bfb877675a654bfc5fc3e7"/>
+</manifest>
