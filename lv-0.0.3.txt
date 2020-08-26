@@ -1,0 +1,47 @@
+Manifest branch: develop
+Manifest merge branch: refs/heads/master
+Manifest groups: all,-notdefault
+----------------------------
+Project: qcs-adk-non-hlos-1-2
+Mount path: /home/bill/workspace/develop/QCS40X_WS
+Current revision: 0731ea99b7b2c78c045f23ad15b0e77fc0d29c3e
+Manifest revision: develop
+Local Branches: 0
+----------------------------
+Project: qcs-adk-hlos-1-2
+Mount path: /home/bill/workspace/develop/QCS40X_WS/LE.UM.4.1.2
+Current revision: fc5326a4a3a0243ef7c94355177ff99c80213d5a
+Current branch: develop
+Manifest revision: develop
+Local Branches: 1 [develop]
+----------------------------
+Project: qcs-adk-acdb-1-2
+Mount path: /home/bill/workspace/develop/QCS40X_WS/LE.UM.4.1.2/apps_proc/audio/mm-audio-cal/audcal/acdbdata/qcs405/MTP
+Current revision: 28bc5bd073cf6b17ba64e931e767815981c5b197
+Manifest revision: develop
+Local Branches: 0
+----------------------------
+Project: qcs-adk-kernel-1-2
+Mount path: /home/bill/workspace/develop/QCS40X_WS/LE.UM.4.1.2/apps_proc/kernel
+Current revision: f57102abf9fbd63ce7fdd16a4ef0509204fb3949
+Manifest revision: develop
+Local Branches: 0
+----------------------------
+Project: smtq-meta-ark
+Mount path: /home/bill/workspace/develop/QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-ark
+Current revision: 7f1050bc4c59e84c3a408a6f4806d60c3c801f3e
+Manifest revision: develop
+Local Branches: 2 [test, develop]
+----------------------------
+Project: smtq-meta-sdk
+Mount path: /home/bill/workspace/develop/QCS40X_WS/LE.UM.4.1.2/apps_proc/poky/meta-sdk
+Current revision: 632745924e0cce92584810ab5bf326d46be910af
+Manifest revision: develop
+Local Branches: 0
+----------------------------
+Project: ark_script
+Mount path: /home/bill/workspace/develop/QCS40X_WS/ark_script
+Current revision: a122c1aef68d4aed5d0ee201c09598c2296cad24
+Manifest revision: develop
+Local Branches: 0
+----------------------------
